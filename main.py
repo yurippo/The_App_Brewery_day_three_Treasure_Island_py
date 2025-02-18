@@ -4,7 +4,7 @@ def main():
     print("         __________\n        /\\____;;___\\\n       | /         /\n       `. ())oo() .\n        |\\(%()*^^()^\\\n       %| |-%-------|\n      % \\ | %  ))   |\n      %  \\|%________|\nejm97  %%%%")
     
     print("Welcome to Treasure Island.")
-    print("Your mission is to find the treasure.")
+    print("Your mission is to find the treasure.") ##
 
     choice1 = input('You\'re at a crossroad, where do you want to go? Type "left" or "right"\n').lower()
     if choice1 == "left":
